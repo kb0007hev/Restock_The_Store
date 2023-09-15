@@ -1,0 +1,14 @@
+C:\Users\kb000\Desktop\SCHOOL C#\SCHOOL PROJECTS\Restock_the_store\Restock_the_store\bin\Debug\net6.0\Restock_the_store.exe
+C:\Users\kb000\Desktop\SCHOOL C#\SCHOOL PROJECTS\Restock_the_store\Restock_the_store\bin\Debug\net6.0\Restock_the_store.deps.json
+C:\Users\kb000\Desktop\SCHOOL C#\SCHOOL PROJECTS\Restock_the_store\Restock_the_store\bin\Debug\net6.0\Restock_the_store.runtimeconfig.json
+C:\Users\kb000\Desktop\SCHOOL C#\SCHOOL PROJECTS\Restock_the_store\Restock_the_store\bin\Debug\net6.0\Restock_the_store.dll
+C:\Users\kb000\Desktop\SCHOOL C#\SCHOOL PROJECTS\Restock_the_store\Restock_the_store\bin\Debug\net6.0\Restock_the_store.pdb
+C:\Users\kb000\Desktop\SCHOOL C#\SCHOOL PROJECTS\Restock_the_store\Restock_the_store\obj\Debug\net6.0\Restock_the_store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kb000\Desktop\SCHOOL C#\SCHOOL PROJECTS\Restock_the_store\Restock_the_store\obj\Debug\net6.0\Restock_the_store.AssemblyInfoInputs.cache
+C:\Users\kb000\Desktop\SCHOOL C#\SCHOOL PROJECTS\Restock_the_store\Restock_the_store\obj\Debug\net6.0\Restock_the_store.AssemblyInfo.cs
+C:\Users\kb000\Desktop\SCHOOL C#\SCHOOL PROJECTS\Restock_the_store\Restock_the_store\obj\Debug\net6.0\Restock_the_store.csproj.CoreCompileInputs.cache
+C:\Users\kb000\Desktop\SCHOOL C#\SCHOOL PROJECTS\Restock_the_store\Restock_the_store\obj\Debug\net6.0\Restock_the_store.dll
+C:\Users\kb000\Desktop\SCHOOL C#\SCHOOL PROJECTS\Restock_the_store\Restock_the_store\obj\Debug\net6.0\refint\Restock_the_store.dll
+C:\Users\kb000\Desktop\SCHOOL C#\SCHOOL PROJECTS\Restock_the_store\Restock_the_store\obj\Debug\net6.0\Restock_the_store.pdb
+C:\Users\kb000\Desktop\SCHOOL C#\SCHOOL PROJECTS\Restock_the_store\Restock_the_store\obj\Debug\net6.0\Restock_the_store.genruntimeconfig.cache
+C:\Users\kb000\Desktop\SCHOOL C#\SCHOOL PROJECTS\Restock_the_store\Restock_the_store\obj\Debug\net6.0\ref\Restock_the_store.dll

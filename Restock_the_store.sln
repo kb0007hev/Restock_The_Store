@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restock_the_store", "Restock_the_store\Restock_the_store.csproj", "{EA3C8028-F38D-4B3A-8A44-7A03810D5992}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA3C8028-F38D-4B3A-8A44-7A03810D5992}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA3C8028-F38D-4B3A-8A44-7A03810D5992}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA3C8028-F38D-4B3A-8A44-7A03810D5992}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA3C8028-F38D-4B3A-8A44-7A03810D5992}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92431521-FD8E-460D-8DC9-85E3D581E5AA}
+	EndGlobalSection
+EndGlobal

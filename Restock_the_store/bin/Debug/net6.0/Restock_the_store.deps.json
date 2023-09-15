@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Restock_the_store/1.0.0": {
+        "runtime": {
+          "Restock_the_store.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Restock_the_store/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
